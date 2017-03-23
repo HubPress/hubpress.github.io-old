@@ -1180,3 +1180,15 @@ form .form-control:focus {
 .pre-loader {
   background: #e7e7e7;
 }
+
+.deploy {
+    display: block;
+    margin: auto;
+    width: 300px;
+}
+
+.deploy-btn {
+  background-color: white;
+  border-radius: 6px;
+  display: block;
+}
